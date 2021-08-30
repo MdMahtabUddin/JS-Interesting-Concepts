@@ -18,3 +18,4 @@ if (a === b) {
 else {
     console.log('they are not same')
 }
+
